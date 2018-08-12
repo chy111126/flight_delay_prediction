@@ -1,8 +1,8 @@
+# Main program for the assessment
+# Author: Tom Chau
 
 import sys
 
-print('Number of arguments:', len(sys.argv), 'arguments.')
-print('Argument List:', str(sys.argv))
 
 # Parse arguments
 all_args = [s for s in sys.argv if s.startswith('--')]
@@ -35,7 +35,9 @@ elif sys.argv[1] == "train_model":
 elif sys.argv[1] == "predict":
 
     # Model prediction routine
-    # Testing set should be used here
-    from preprocess import preprocess_file
-    preprocess_file(args_dict['input'], args_dict['output'])
+    # Testing/foreign set should be used here
+    from model import test_model
+    test_model(args_dict['input'], args_dict['encode_feature_dict'],
+               args_dict['classifier_model'], args_dict['regressor_model'],
+               args_dict['result_output'])
 
