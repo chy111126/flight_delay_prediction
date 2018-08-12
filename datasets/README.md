@@ -1,0 +1,1 @@
+To run the program, supply the flight_delays_data.csv which covers all flight records and run the preprocess routine. The prediction model requires historical statistical/metrics in order to work as expected.

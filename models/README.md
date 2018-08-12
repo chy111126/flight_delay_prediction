@@ -1,0 +1,1 @@
+This folder is for storing prediction models and categorical feature encoder result.
