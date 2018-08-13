@@ -19,6 +19,7 @@ To run, make sure below libraries are installed:
 Please follow the link at LightGBM - Installation-Guide: https://github.com/Microsoft/LightGBM/blob/master/docs/Installation-Guide.rst
 </span>
 <br />
+<br />
 
 For files under notebooks/ folder, the following libraries are required:
 
