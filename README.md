@@ -15,7 +15,8 @@ To run, make sure below libraries are installed:
 <span><b>- Pandas </b><pre>pip3 install pandas </pre> </span>
 <span><b>- SciPy </b><pre>pip install scipy </pre> </span>
 <span><b>- scikit-learn </b><pre>pip install scikit-learn </pre> </span>
-<span><b>- LightGBM </b><pre>Please follow the link at: [LightGBM/Installation-Guide](https://github.com/Microsoft/LightGBM/blob/master/docs/Installation-Guide.rst) </pre> </span>
+<span><b>- LightGBM </b>Please follow the link at: [LightGBM/Installation-Guide](https://github.com/Microsoft/LightGBM/blob/master/docs/Installation-Guide.rst)
+</span>
 <br />
 
 For files under notebooks/ folder, the following libraries are required:
