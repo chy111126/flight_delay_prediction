@@ -1,7 +1,7 @@
 # flight_delay_prediction
 Flight Delay Prediction for Data Science Assessment
 
-The presentation material is uploaded to project root (presentation.pdf) for your reference. Also, more in-depth studies regarding the assessment can be seen under notebooks/ folder in Jupyter notebook format.
+The presentation material is uploaded to project root (presentation.pdf) for reference. Also, more in-depth studies regarding the assessment can be seen under notebooks/ folder in Jupyter notebook format.
 
 
 ### Dependencies
@@ -15,8 +15,8 @@ To run, make sure below libraries are installed:
 <span><b>- Pandas </b><pre>pip3 install pandas </pre> </span>
 <span><b>- SciPy </b><pre>pip install scipy </pre> </span>
 <span><b>- scikit-learn </b><pre>pip install scikit-learn </pre> </span>
-<span><b>- LightGBM </b>Please follow the link at: [LightGBM/Installation-Guide](https://github.com/Microsoft/LightGBM/blob/master/docs/Installation-Guide.rst)
-</span>
+<b>- LightGBM </b>
+Please follow the link at LightGBM - Installation-Guide: https://github.com/Microsoft/LightGBM/blob/master/docs/Installation-Guide.rst
 <br />
 
 For files under notebooks/ folder, the following libraries are required:
