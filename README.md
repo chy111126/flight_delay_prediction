@@ -11,8 +11,8 @@ This project is developed with Python 3.6.
 To run, make sure below libraries are installed:
 
 <br />
-<span><b>- Numpy </b><pre>pip3 install numpy </pre></span>
-<span><b>- Pandas </b><pre>pip3 install pandas </pre> </span>
+<span><b>- Numpy </b><pre>pip install numpy </pre></span>
+<span><b>- Pandas </b><pre>pip install pandas </pre> </span>
 <span><b>- SciPy </b><pre>pip install scipy </pre> </span>
 <span><b>- scikit-learn </b><pre>pip install scikit-learn </pre> </span>
 <span><b>- LightGBM </b><br />
